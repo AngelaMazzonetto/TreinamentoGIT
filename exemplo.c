@@ -13,6 +13,7 @@ float rad2deg(float rad) {
 
 void mostranome(void){
     printf ("Angela!\n");
+    printf ("Daniel\n");
 }
 
 int main (void)
