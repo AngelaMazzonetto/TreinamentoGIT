@@ -6,12 +6,16 @@ float deg2rad(float deg) {
   return rd;
 }
 
+void mostranome(){
+    printf ("Angela!\n");
+}
+
 int main (void)
 {
   printf ("Hello, world!\n");
 
   printf("The radian of 135 degree is %3.4f\n", deg2rad(135.0));
+  mostranome();
 
-  printf ("Angela!\n");
   return 0;
 }
