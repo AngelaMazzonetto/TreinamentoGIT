@@ -8,6 +8,10 @@ float deg2rad(float deg) {
 
 void mostranome(){
     printf ("Angela!\n");
+
+float rad2deg(float rad) {
+  float deg = (rad * 180.0) / M_PI;
+  return deg;
 }
 
 int main (void)
