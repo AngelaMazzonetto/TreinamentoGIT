@@ -1,10 +1,10 @@
-.aux
-.bbl
-.blg
-.log
-.nav
-.out
-.snm
-.synctex.gz
-.toc
+*.aux
+*.bbl
+*.blg
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
 
